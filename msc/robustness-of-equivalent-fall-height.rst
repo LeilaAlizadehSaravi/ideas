@@ -2,14 +2,14 @@
 How Robust is Equivalent Fall Height for Predicting Injury Severity in Snow Jumps?
 ==================================================================================
 
-Description
-===========
-
 .. figure:: https://objects-us-east-1.dream.io/mechmotum/ski-figure-01.png
    :width: 600px
    :align: center
 
    Example snow jump with a constant equivalent fall height landing surface.
+
+Description
+===========
 
 *Equivalent fall height* has been proposed as an important measure to minimize
 in the design of safer ski and snowboard jumps [Hubbard2009]_. The equivalent
