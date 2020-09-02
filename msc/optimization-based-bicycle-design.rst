@@ -36,7 +36,8 @@ physical characteristics and then search for candidate physical characteristics
 that ensure this new bicycle design has dynamics as similar as possible to a
 bicycle that is subjectively judged to have good handling. This is what a
 designer does in an ad-hoc way, but these characteristics could be chosen in an
-optimal fashion.
+optimal fashion. [Paudel2020]_ shows a manual method of this design process
+that does utilize the vehicle's dynamics.
 
 The goal of this project is to develop a constrained optimization problem which
 ensures that an atypical bicycle design with some fully constrained
@@ -44,19 +45,8 @@ characteristics has uncontrolled dynamics as close as possible to a typical
 bicycle. The optimization problem presented in [Moore2020]_ has similarities to
 this problem and can be used for initial ideas. The success of the
 methodology should be demonstrated with different atypical bicycles: bakfiets,
-folding bicycles, recumbent bicycles, etc.
-
-Proposed Approach
-=================
-
-1. Characterize the dynamics of one or more good handling bicycles
-2. Select and/or develop an appropriate linear bicycle model
-3. Develop an appropriate cost function that minimizes differences in dynamics
-4. Develop constraints on the free parameters such that realizable bicycles
-   result from the optimization procedure
-5. Generate example unusual bicycle designs based on realistic design criteria
-6. Build at least one of the resulting designs and compare it's measurable dynamics to the
-   target good handling bicycle
+folding bicycles, recumbent bicycles, etc. and potentially constructing one of
+the designs and testing it.
 
 Required Skills
 ===============
@@ -84,15 +74,21 @@ References
 .. [Moore2020] J. K. Moore and M. Hubbard, “Expanded Optimization for
    Discovering Optimal Lateral Handling Bicycles,” Padua, Italy, 2019, p. 12,
    doi: 10.6084/m9.figshare.9942938.v1.
+.. [Paudel2020] M. Paudel and F. F. Yap, “Development of an improved design
+   methodology and front steering design guideline for small-wheel bicycles for
+   better stability and performance,” Proceedings of the Institution of
+   Mechanical Engineers, Part P: Journal of Sports Engineering and Technology,
+   vol. 234, no.  3, pp. 227–244, Sep. 2020, doi: 10.1177/1754337120919608.
 
 See Also
 ========
 
-- Lab research page on optimal handling bicycles: https://mechmotum.github.io/optimal-handling-bicycles.html
+- `Lab research page on optimal handling bicycles <https://mechmotum.github.io/research/optimal-handling-bicycle.html>`_
 
 How to Apply
 ============
 
-Send an email to j.k.moore@tudelft.nl with an approximately half-page
-motivation letter explaining why you want to work on this project and in the
-Bicycle Lab along with your current resume/C.V.
+Send an email to j.k.moore@tudelft.nl with the title of the project in the
+subject line. Include an approximately half-page motivation letter explaining
+why you want to work in the Bicycle Lab on this project along with your current
+resume or C.V.

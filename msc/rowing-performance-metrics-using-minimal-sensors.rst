@@ -56,4 +56,12 @@ References
 See Also
 ========
 
-- Lab web page on rowing: https://mechmotum.github.io/estimation-of-rower-kinematics-in-competitive-rowing.html
+- `Lab web page on rowing <https://mechmotum.github.io/research/rowing-performance.html>`_
+
+How to Apply
+============
+
+Send an email to j.k.moore@tudelft.nl with the title of the project in the
+subject line. Include an approximately half-page motivation letter explaining
+why you want to work in the Bicycle Lab on this project along with your current
+resume or C.V.

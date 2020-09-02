@@ -43,7 +43,7 @@ are some questions that could possibly be answered:
 - Are there any reasons that equivalent fall height should not be lowered in
   jump designs with respect to rotating impacts?
 
-Proposed Approach
+Possible Approach
 =================
 
 - Literature review on foundational topics: human body collisions, ski jumping,
@@ -97,5 +97,13 @@ References
 See Also
 ========
 
-- Lab research page on ski jumps: https://mechmotum.github.io/research/design-and-analysis-of-ski-jumps.html
-- skijumpdesign web application: www.skijumpdesign.info/
+- `Lab research page on ski jumps <https://mechmotum.github.io/research/ski-jump-safety.html>`_
+- skijumpdesign web application: http://www.skijumpdesign.info
+
+How to Apply
+============
+
+Send an email to j.k.moore@tudelft.nl with the title of the project in the
+subject line. Include an approximately half-page motivation letter explaining
+why you want to work in the Bicycle Lab on this project along with your current
+resume or C.V.
