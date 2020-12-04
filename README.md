@@ -1,4 +1,4 @@
-Research ideas for the Laboratorium of Marvelous Mechanical Motum
+Research ideas for the TU Delft Bicycle Laboratorium
 
 This is an "issue only" repository used to track research ideas that lab
 members have. Use one issue per research idea and discussion about it can
